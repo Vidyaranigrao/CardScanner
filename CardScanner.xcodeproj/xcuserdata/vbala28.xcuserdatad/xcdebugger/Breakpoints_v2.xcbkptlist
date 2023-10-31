@@ -3,4 +3,70 @@
    uuid = "DA3E2292-5F3F-4E94-9F33-D5FF89B14B33"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27D3BD67-E09D-4311-855D-2C99315EB4BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CardScanner/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "processBarcodes(results:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5B7BAF0-2639-4E8D-AF4D-76D99477DF91"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CardScanner/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "processBarcodes(results:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B5B7BAF0-2639-4E8D-AF4D-76D99477DF91 - 38903bbd232329f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardScanner.ViewController.processBarcodes(results: Swift.Optional&lt;Swift.Array&lt;Any&gt;&gt;) -&gt; ()"
+                  moduleName = "CardScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vbala28/CardScanner/CardScanner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "B5B7BAF0-2639-4E8D-AF4D-76D99477DF91 - 38903bbd232329f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CardScanner.ViewController.processBarcodes(results: Swift.Optional&lt;Swift.Array&lt;Any&gt;&gt;) -&gt; ()"
+                  moduleName = "CardScanner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vbala28/CardScanner/CardScanner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "976">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
